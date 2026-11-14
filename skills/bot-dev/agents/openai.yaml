@@ -1,0 +1,4 @@
+interface:
+  display_name: "bot-dev"
+  short_description: "BOT. architecture, scanning and acceptance workflows"
+  default_prompt: "Use $bot-dev for this BOT. project task."

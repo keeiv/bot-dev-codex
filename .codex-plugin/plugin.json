@@ -1,0 +1,20 @@
+{
+  "name": "bot-dev-codex",
+  "version": "0.1.0",
+  "description": "BOT. project architecture, acceptance checks, scanning and contribution workflows for Codex.",
+  "author": {
+    "name": "Keeiv"
+  },
+  "license": "AGPL-3.0-only",
+  "skills": "./skills/",
+  "interface": {
+    "displayName": "BOT.dev for Codex",
+    "shortDescription": "Understand and verify the BOT. Discord bot project",
+    "developerName": "Keeiv",
+    "category": "Developer Tools",
+    "logo": "./assets/wordmark.png",
+    "composerIcon": "./assets/icon.png"
+  },
+  "homepage": "https://github.com/keeiv/bot-dev-codex",
+  "repository": "https://github.com/keeiv/bot-dev-codex"
+}

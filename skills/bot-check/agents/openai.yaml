@@ -1,0 +1,4 @@
+interface:
+  display_name: "bot-check"
+  short_description: "BOT. architecture, scanning and acceptance workflows"
+  default_prompt: "Use $bot-check for this BOT. project task."
